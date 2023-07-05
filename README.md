@@ -1,7 +1,7 @@
 
 # Проект "Интерактивный персонаж"
 
-[[!pic](https://static01.nyt.com/images/2023/02/27/business/00AI-TRUTH/00AI-TRUTH-superJumbo.jpg?quality=75&auto=webp)]
+![pic](https://static01.nyt.com/images/2023/02/27/business/00AI-TRUTH/00AI-TRUTH-superJumbo.jpg?quality=75&auto=webp)
 
 [![Build Status](https://travis-ci.org/yourusername/your-repo.svg?branch=master)](https://travis-ci.org/yourusername/your-repo)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -12,7 +12,7 @@ Something that can chating like some character.
 ## Установка
 
 1. Склонируйте репозиторий: `git clone https://github.com/bobtattvamasi/MMLs_character.git`
-2. Установите зависимости: `pip install -r requirements.txt`
+2. Установите зависимости: `pip install -r requirements.txt` (но их пока нет)
 
 ## Использование
 
